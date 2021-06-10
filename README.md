@@ -1,8 +1,10 @@
 ## NRSC 7657, Workshop in Advanced Programming for Neuroscientists
 ### University of Colorado School of Medicine, Anschutz Medical Campus
 #### Daniel J Denman, 11 June 2021
+<br>
 
-## Material to be added to course folders weekly
+### -->  Material to be added to course folders (e.g., Week1) weekly <--
+
 <br>This is the main repository for the pedagogical aspects of the course; it lives within a GitHub organization that also hosts the practical coding projects completed for the course. <br>
 
 #### some git tips for those who want them:
