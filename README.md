@@ -21,11 +21,11 @@ to add a change you made to a repository<br>
 `git commit -m "message about what changed"`<br>
 `git push`<br>
 
-to clone a private repository you made:
-`git clone https://username@github.com/username/repo_name`
-where "username" is your github username. so for `silver-waffle` which we created in class, dan would do:
-`git clone https://danieljdenman@github.com/CU-NRSC-7657/silver-waffle.git`
-you can then authenticate with your password and pull away
+to clone a private repository you made:<br>
+`git clone https://username@github.com/username/repo_name`<br>
+where "username" is your github username. so for `silver-waffle` which we created in class, dan would do:<br>
+`git clone https://danieljdenman@github.com/CU-NRSC-7657/silver-waffle.git`<br>
+you can then authenticate with your password and pull away<br>
 
 
 
