@@ -1,0 +1,10 @@
+name: NRSC7657
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
+  - bokeh
+  - seaborn
+  - joblib
+  - dask
