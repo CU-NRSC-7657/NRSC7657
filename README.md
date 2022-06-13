@@ -1,6 +1,7 @@
 ## NRSC 7657, Workshop in Advanced Programming for Neuroscientists
 ### University of Colorado School of Medicine, Anschutz Medical Campus
-#### Daniel J Denman, 13 June 2022
+#### Daniel J Denman, John Thompson
+#### 13 June 2022
 <br>
 
 ### This is the main repository for the pedagogical aspects of the course. 
@@ -9,6 +10,12 @@
 - Weekly materials are in folders (e.g., Week1) 
 
 <br>
+
+### Software tools we will use
+- Anaconda: https://www.anaconda.com/
+- Github Desktop: https://desktop.github.com/
+- Visual Studio Code: https://code.visualstudio.com/Download
+- MATLAB (University has a license): https://www.ucdenver.edu/offices/office-of-information-technology/software
 <br>
 <br>
 
