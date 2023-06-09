@@ -1,9 +1,0 @@
-next time: how to write your own exceptions and raises
-
-MATLAB:
--conditional breakpoints
-  - right click on a dot to be able to add a conditional 
--dbstop if error
-    - one time use, stops where error happens and lets you inspect
-    
-talk about tqdm in QOL 
