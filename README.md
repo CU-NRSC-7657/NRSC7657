@@ -11,10 +11,10 @@
 
 <br>
 
-### Software tools we will use
-- Anaconda: https://www.anaconda.com/
+### Software tools we will use. If you don't have them, install them:
 - Github Desktop: https://desktop.github.com/
-- Visual Studio Code: https://code.visualstudio.com/Download
+- Anaconda: https://www.anaconda.com/
+- Visual Studio Code: https://code.visualstudio.com/
 - MATLAB (University has a license): https://www.ucdenver.edu/offices/office-of-information-technology/software
 <br>
 <br>
