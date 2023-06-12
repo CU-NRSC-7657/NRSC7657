@@ -17,6 +17,7 @@ Daniel J Denman, John Thompson<br>
 <br>
 <br>
 
+<br> Example change for git
 Sign-up for 1:1 meeting to discuss independent project:<br>
 https://zcal.co/i/TnPlYgEZ<br>
 if you need other options, email dan.
