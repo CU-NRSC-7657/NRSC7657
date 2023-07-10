@@ -9,7 +9,8 @@ class ThingWeMade:
         
     def fire(self):
         self.spike = self.thing+' fires an action potential'
-        print(self.spike)
+        return self.spike
+        # print(self.spike)
         
     def fire_a_thing(self,input_string):
         self.spike = self.thing+' fires an '+input_string
