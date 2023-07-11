@@ -4,7 +4,7 @@ def test_always_passes():
 # def test_always_fails():
 #     assert False
 
-def test_Week2():
+def test_ThingWeMade():
     import importlib.util, sys
     modname='nsrc'
     spec = importlib.util.spec_from_file_location(modname, '/Users/danieljdenman/github/NRSC7657/Week2/nrsc7657.py')
@@ -13,6 +13,6 @@ def test_Week2():
     spec.loader.exec_module(nrsc)
 
     t = nrsc.ThingWeMade()
-    line = t.fire()
 
-    assert line=='neuron fires an action potential'
+    line = t.fire()
+    assert line == 'neuron fires an action potential'

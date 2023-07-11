@@ -1,6 +1,6 @@
 class ThingWeMade:
     def __init__(self):
-        self.thing='neuron'
+        self.thing='microglia'
         
         self.start()
     
