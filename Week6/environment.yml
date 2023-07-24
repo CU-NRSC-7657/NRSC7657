@@ -1,0 +1,11 @@
+name: NRSC7657
+dependencies:
+- numpy
+- matplotlib
+- pandas>=1.0.0
+- requests
+- joblib
+- dask
+- xarray
+- scikit-learn
+- scipy
