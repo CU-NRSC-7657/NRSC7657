@@ -1,7 +1,7 @@
 ## NRSC 7657, Workshop in Advanced Programming for Neuroscientists
 University of Colorado School of Medicine, Anschutz Medical Campus<br>
 Daniel J Denman, John Thompson<br>
-12 June 2023<br>
+<br>
 <br>
 
 ## This is the main repository for the pedagogical aspects of the course. 
