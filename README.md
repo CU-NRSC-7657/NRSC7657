@@ -17,8 +17,16 @@ Daniel J Denman, John Thompson<br>
 <br>
 <br>
 
-Sign-up for 1:1 meeting to discuss independent project:<br>
-https://zcal.co/i/TnPlYgEZ<br>
+[Sign-up for 1:1 meeting to discuss independent project](https://zcal.co/i/TnPlYgEZ)
+<br>
 if you need other options, email dan.
 
+<br>
+
+[Sign-up for an independent project final presentation slot](https://zcal.co/i/CPvsa97X)
+<br>
+- Final presentations are 30 minutes
+- the format is a "code review", in which you will walk the group through your code, line by line and chunk by chunk, explaining the implentation.
+- prepare a < 5 minute introduction that states the goal of the project, the inputs to your code, and the outputs; the remaining 25 minutes will be code review.
+- if you need other options, discuss with dan and john.
 
